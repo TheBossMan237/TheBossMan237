@@ -3,7 +3,7 @@
 ### :school: Student
 ### 💻 Studying Computer Science
 
-<img src="https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/vsc-256_3_orig.png", width=16, height=16>
+<img src="https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/vsc-256_3_orig.png" width=16 height=16>
 **TheBossMan237/TheBossMan237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
