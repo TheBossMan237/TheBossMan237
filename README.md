@@ -2,8 +2,11 @@
 ## Im Will Simpson
 ### :school: Student
 ### 💻 Studying Computer Science
+## Familiar Softwares 
+<img src="https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/vsc-256_3_orig.png" width=32 height=32>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width=32 height=32>
 
-<img src="https://embeddedcomputing.weebly.com/uploads/1/1/6/2/11624344/vsc-256_3_orig.png" width=16 height=16>
+
 **TheBossMan237/TheBossMan237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
